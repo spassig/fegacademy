@@ -1,0 +1,7 @@
+site_name: Glaube und Zweifel
+
+pages:
+    - [index.md, Übersicht]
+    - [resources.md, Materielsammlung]
+
+markdown_extensions: [smarty, admonition]
