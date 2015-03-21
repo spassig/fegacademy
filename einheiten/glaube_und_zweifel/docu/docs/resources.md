@@ -16,7 +16,7 @@ Titel | Erläuterung | Sprache | Versione(n)
 
 Link   | Erläuterung | Sprache | Versione(n) 
 ------ | ----------- | ------- | ------------
-[Fine Tuning](https://www.youtube.com/watch?v=Q3jvfvho3CE) | FineTuning mit vielen Animationen erläutert. Diverse Bilder eignen sich gut, um sie in einer Präsentation zu verarbeiten | en | Video
+[Fine Tuning](https://www.youtube.com/watch?v=Q3jvfvho3CE) | FineTuning mit vielen Animationen erläutert. Diverse Bilder eignen sich gut, um sie in einer Präsentation zu verarbeiten. ResonableFaith Ressource. | en | Video
 [Moral Argument](https://www.youtube.com/watch?v=OxiAikEk2vU) | | en | Video
 
 
