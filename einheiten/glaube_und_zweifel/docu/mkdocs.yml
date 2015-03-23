@@ -2,6 +2,7 @@ site_name: Glaube und Zweifel
 
 pages:
     - [index.md, Übersicht]
+    - [einheit.md, Einheit]
     - [resources.md, Materielsammlung]
 
 markdown_extensions: [smarty, admonition]

@@ -3,6 +3,10 @@
 
 Einheit, die HK-Leiter direkt im Hauskreis machen können. Handout und Materialien zum einfachen Durchführen im Hauskreis.
 
+## Titel
+
+Die Einheit heisst: "**Glaube und Zweifel – Strategien für ein tragfähiges Glaubensfundament**"
+
 ## Ziel
 
 - Prioritäten im Glaubenssystem verstehen
@@ -17,7 +21,7 @@ Einheit, die HK-Leiter direkt im Hauskreis machen können. Handout und Materiali
 - Erläuterungen zum Inhalt
 - Frage/Antworten
 
-## Aubau
+## Aufbau
 
 - Netzanalogie (es gibt Wichtiges/Unwichtiges) - für Sicherheit bei Gegenargumenten
 - Essentials
@@ -33,7 +37,7 @@ Einheit, die HK-Leiter direkt im Hauskreis machen können. Handout und Materiali
 
 ## Umfrage
 
-Umfrage an Hauskreisleiter während der Vorbereitung zum Sammeln der relevaten Fragen. 
+Umfrage an Hauskreisleiter während der Vorbereitung zum Sammeln der relevaten Fragen. Umfrage ist unter [www.umbuzoo.de/q/fegacademy1](https://www.umbuzoo.de/q/fegacademy1)
 
 Was für Zweifel gibt es?
 
