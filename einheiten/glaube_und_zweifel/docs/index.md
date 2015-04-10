@@ -14,7 +14,7 @@ Umfrage an Hauskreisleiter während der Vorbereitung zum Sammeln der relevaten F
 
 ### Ergebnisse
 
-Die Umfrage
+Zwischenstand am 10.04.2015
 
 Thema | Ergebnisse
 ---------- | -------------
