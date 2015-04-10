@@ -3,7 +3,10 @@ site_name: Glaube und Zweifel
 pages:
     - [index.md, Übersicht]
     - [einheit.md, Einheit]
-    - [auferstehung.md, Auferstehung]
-    - [resources.md, Materielsammlung]
+    - [themes/existenz.md, Themen, Existenz Gottes]
+    - [themes/auferstehung.md, Themen, Auferstehung]    
+    - [resources.md, Materielsammlung]    
 
-markdown_extensions: [smarty, admonition]
+markdown_extensions: [smarty, admonition, footnotes]
+
+# theme: cerulean
