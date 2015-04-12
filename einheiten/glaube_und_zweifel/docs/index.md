@@ -12,9 +12,9 @@ Die Einheit heisst: "**Glaube und Zweifel – Strategien für ein tragfähiges G
 
 Die Hauskreisleiter und Teilnehmer konnten an einer Umfrage teilnehmen. Es haben sich 45 Leute beteiligt. Daraus haben sich folgende Schwerpunkte ergeben:
 
-- Existenz Gottes
+- [Existenz Gottes](themes/existenz.md)
 - Schöpfung
-- Theodizee Frage
+- [Theodizee Frage](themes/theodizee.md)
 - Errettung
 
 ### Ergebnisse
