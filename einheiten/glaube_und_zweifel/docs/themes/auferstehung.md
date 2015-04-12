@@ -3,7 +3,7 @@
 
 Die Einwände/Zweifel die sich oft Stellen sind z.B.:
 
-* Jesus war garnicht tot
+* Jesus war gar nicht tot
 * Die Jünger haben halluziniert. Sie haben es sich einfach soo sehr gewünscht das er weiterlebt.
 * Wieso ist das eigentlich so wichtig ob Jesus wirlkich auferstanden ist ? Es zählt doch nur das die Jünger ihn weiterhin in ihrem Herzen hatten
 * Das ist doch alles nur Legende. Die Jünger legen Jesus Sachen in den Mund und glorifizieren ihn übermäßig nach seinem Tod.

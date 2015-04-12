@@ -10,13 +10,20 @@ Die Einheit heisst: "**Glaube und Zweifel – Strategien für ein tragfähiges G
 
 ## Umfrage
 
-Umfrage an Hauskreisleiter während der Vorbereitung zum Sammeln der relevaten Fragen. Umfrage ist unter [www.umbuzoo.de/q/fegacademy1](https://www.umbuzoo.de/q/fegacademy1)
+Die Hauskreisleiter und Teilnehmer konnten an einer Umfrage teilnehmen. Es haben sich 45 Leute beteiligt. Daraus haben sich folgende Schwerpunkte ergeben:
+
+- Existenz Gottes
+- Schöpfung
+- Theodizee Frage
+- Errettung
 
 ### Ergebnisse
 
-Zwischenstand am 10.04.2015
+Alle Eingaben unter: [Glaube_und_Zweifel.xlsx](files/Glaube_und_Zweifel.xlsx)
 
-Thema | Ergebnisse
+#### Übersicht
+
+Thema | Ergebniss
 ---------- | -------------
 **Grundlagen** | ![](images/survey_basics.jpg)
 **Theologisches** | ![](images/survey_theo.jpg)
