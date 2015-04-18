@@ -25,9 +25,7 @@ Nur da wo wir fest im Glauben stehen und nicht ins wanken geraten, kann unser Gl
 
 ## Das Netz der Glaubensgrundsätze ( web of believes )
 
-![Spinnennetz](images/spidernet.jpg)
-
-[Bild "Wet net" von Till Westermayer](https://www.flickr.com/photos/tillwe/8051013852)
+![Spinnennetz](../images/spidernet.jpg) [Bild "Wet net" von Till Westermayer](https://www.flickr.com/photos/tillwe/8051013852)
 
 Ein Hilfsmittel im Umgang mit Zweifeln kann die Analogie eines Spinnennetzes sein.
 
