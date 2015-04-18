@@ -32,6 +32,7 @@ Link   | Erläuterung | Sprache | Versione(n)
 [Stealing From God](http://www.amazon.de/Stealing-God-Atheists-Need-Their/dp/B00RND5STA) *Why Atheists Need God to Make Their Case* | Probleme der Atheisten mit ihrem Weltbild. | en | Hörbuch Audible Library sp
 [Science Increasingly Makes the Case for God](http://www.wsj.com/articles/eric-metaxas-science-increasingly-makes-the-case-for-god-1419544568) | Wall Street Journal Artikel von Erix Metaxa zum Stand der Wissenschaft was die Wahrscheinlichkeit von Leben auf anderen Planeten und die Unwahrscheinlichkeit des Universums betrifft. Besprechung im [Reasonable Faith Podcast](http://www.reasonablefaith.org/god-explodes-the-wall-street-journal) | en | Online
 [Indizien für einen Schöpfer](http://www.amazon.de/Indizien-f%C3%BCr-einen-Sch%C3%B6pfer-Spannungsfeld/dp/3865910122/ref=sr_1_1?s=books&ie=UTF8&qid=1429362316&sr=1-1&keywords=indizien+f%C3%BCr+einen+sch%C3%B6pfer) | Journalist Lee Strobel konfrontriert führende Naturwissenschaftler mit Fragen zum Thema Entstehung des Universums und des Lebens. | de | Buch
+[Gott im Fadenkreuz: Warum der Neue Atheismus nicht trifft](http://www.amazon.de/Gott-Fadenkreuz-Warum-Atheismus-trifft/dp/3417265355/ref=sr_1_3?s=books&ie=UTF8&qid=1429390861&sr=1-3) | Der bekannte Mathematikprofessor John Lennox zeigt detailiert Argumente für den Christlichen Glauben und wieso die Argumente der Atheisten ins Leere laufen. | de | Buch
 
 ## Auferstehung
 
