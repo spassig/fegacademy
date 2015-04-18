@@ -8,7 +8,7 @@ Christlicher Glaube hat im Zentrum den *Dreieinigen* Gott der sich in der Geschi
 
 Darum spricht Jesus von einer ganzheitlichen Beziehung mit Gott, [Matthäus 22,37](http://www.bibleserver.com/text/ELB/Matth%C3%A4us22%2C37)
 
-    Er aber sprach zu ihm: "Du sollst den Herrn, deinen Gott, lieben mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Verstand."
+    Er aber sprach zu ihm: ‟Du sollst den Herrn, deinen Gott, lieben mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Verstand.„
     
 Die Einheit **Glaube und Zweifel** soll dabei helfen wie wir in unserem Glauben sicherer werden und unserem Auftrag gerecht werden können: Den Menschen um uns herum über unseren Glauben zu erzählen und ihren Fragen begegnen zu können, Petrus schreibt dazu in Kapitel [3,15](http://www.bibleserver.com/text/HFA/1.Petrus3%2C15)
 
@@ -25,7 +25,9 @@ Nur da wo wir fest im Glauben stehen und nicht ins wanken geraten, kann unser Gl
 
 ## Das Netz der Glaubensgrundsätze ( web of believes )
 
-![Spinnennetz](./images/spidernet.jpg) ["Wet net" von Till Westermayer](https://www.flickr.com/photos/tillwe/8051013852)
+![Spinnennetz](images/spidernet.jpg)
+
+[Bild "Wet net" von Till Westermayer](https://www.flickr.com/photos/tillwe/8051013852)
 
 Ein Hilfsmittel im Umgang mit Zweifeln kann die Analogie eines Spinnennetzes sein.
 
@@ -82,27 +84,31 @@ Wenn wir in unserem Glaubensleben immer wieder einmal mit Zweifeln konfrontriert
 Zweifel sind nicht per se schlecht oder sündhaft. Zweifel drücken nur die innere Uruhe aus, dass wir bei bestimmten Fragen unsicher sind und keine für uns befriedigende Antwort gefunden haben. Zweifel haben eine ähnliche Wirkung wie Versuchungen. Nicht der Zweifel ist die Sünde ( genauso wie die Versuchung keine Sünde ist ), sondern die Entscheidung(en) die ich daraufhin treffe sind richtig oder falsch und können zur Sünde werden.
 Zweifel zu haben ist also etwas völlig normales im Leben eines Christen.
 
-In einer Situation des zweifelns ist wichtig das wir uns darüber klar zu werden was wir als gesichertes Fundament annehmen, und woran eigentlich im Kern momentan gezweifelt wird.
+In einer Situation des zweifelns ist wichtig, dass wir uns darüber klar werden was wir als gesichertes Fundament annehmen, und woran eigentlich im Kern momentan gezweifelt wird.
 
 Das Gewicht des aktuellen Zweifels kann sehr schnell weniger werden, wenn man sich darüber klar wird wieviel größer das Fundament ist im Vergleich zum momentanen Zweifel.
 
-Die Analogie des Netzes hilft zu entscheiden wie "schwerwiegend" eine Fragestellung überhaupt sein kann.
-Wenn mein Zweifel sich z.B. mit dem Thema des "1000 jährigen Reiches" befasst, kann ich sicher ruhiger darüber nachdenken als wenn die "Auferstehung Jesu" zur Debatte steht.
+Die Analogie des Netzes hilft zu entscheiden wie "schwerwiegend" eine Fragestellung überhaupt sein kann. Wenn mein Zweifel sich z.B. mit einem Punkt aus dem Themenbereich des "1000 jährigen Reiches" befasst, kann ich sicher ruhiger darüber nachdenken als wenn die "Auferstehung Jesu" zur Debatte steht.
 
 ## Fragen des Glaubens beantworten
 
 Die Analogie des Netzes kann auch dabei helfen zu erkennen was die wichtigen Punkte im Gespräch über den Christlichen Glauben mit anderen Menschen sind :
 
-- Unterschiede im Vergleich zu anderen Religionen und Philosophien
-- Es besteht kein Konflikt zwischen Glaube und Wissenschaft
-- Es gibt gute Argumente für die wichtigen Grundlagen des Glaubens
+- Unterschiede im Vergleich des Christlichen Glaubens zu anderen Religionen und Philosophien
+- Es besteht kein genereller Konflikt zwischen Christlichem Glaube und der Wissenschaft [^1]
+- Es gibt gute Argumente für die wichtigen Grundlagen des Christlichen Glaubens
 - Viele intelligente Menschen haben sich schon mit dem Glauben beschäftigt und ihre Erfahrungen aufgeschrieben
 
 Die Einheit **Glaube und Zweifel** soll das nötige Handwerkszeug bereitstellen wie wir
 
 - konstruktiv mit Zweifeln umgehen können
 - erfahren wieso Glaube heute aktueller den je ist
-- und erkennen das man als Christ nicht nur auf blindes Vertrauen reduziert ist, sondern seinen Verstand zum Glauben benutzen darf 
+- und erkennen das man als Christ nicht nur auf blindes Vertrauen reduziert ist, sondern seinen Verstand zum Glauben benutzen darf
+
+## Fußnoten
+
+[^1]: Es gibt sicher Meinungsverschiedenenheiten zwischen Glaube und Wissenschaft in bestimmten Punkten. Das heißt aber nicht, dass Glaube und Wissenschaft sich diametral gegenüberstehen oder sich gegenseitig ausschließen. Es ist vielmehr so das Glaube und WIssenschaft Hand in Hand gehen wenn es darum geht ein valides Weltbild zu erfassen.
+
 
 
 

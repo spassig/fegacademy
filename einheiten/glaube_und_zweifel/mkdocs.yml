@@ -3,6 +3,7 @@ site_name: Glaube und Zweifel
 pages:
     - [index.md, Übersicht]
     - [einheit.md, Einheit]
+    - [themes/intro.md, Themen, Einführung]
     - [themes/existenz.md, Themen, Existenz Gottes]
     - [themes/theodizee.md, Themen, Theodizee]
     - [themes/auferstehung.md, Themen, Auferstehung]    
