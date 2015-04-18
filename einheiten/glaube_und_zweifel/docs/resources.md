@@ -11,7 +11,9 @@ Titel | Erläuterung | Sprache | Versione(n)
 [Das Gewicht der Herrlichkeit](http://www.amazon.de/Das-Gewicht-Herrlichkeit-Clive-Lewis/dp/3765538612/ref=sr_1_10?s=books&ie=UTF8&qid=1429362731&sr=1-10&keywords=lewis+clive) | C.S. Lewis zu verschiedenen Themen rund um den Christlichen Glauben. | de | Buch
 [Gott auf der Anklagebank](http://www.amazon.de/Gott-Anklagebank-Clive-Staples-Lewis/dp/3765534722/ref=sr_1_6?s=books&ie=UTF8&qid=1429362731&sr=1-6&keywords=lewis+clive) | C.S. Lewis nimmt Stellung zu kritischen Fragen gegenüber dem Christlichen Glaubens. | de | Buch
 [Die Große Scheidung](http://www.amazon.de/Die-grosse-Scheidung-zwischen-Himmel/dp/3894110090/ref=sr_1_1?s=books&ie=UTF8&qid=1429363131&sr=1-1&keywords=c+s+lewis+die+gro%C3%9Fe+scheidung) | C.S. Lewis schreibt über die Hölle und warum es sie geben muss. | de | Buch
-[](http://www.amazon.de/Love-Your-Mind-anniversary-repack/dp/B00NICLKHE/ref=sr_1_3?s=books&ie=UTF8&qid=1429363353&sr=1-3&keywords=love+your+god+with) | Der Philosoph J.P. Mooreland schreibt über Fundamente des Christlichen Glaubens und die verschiedenen Argumente aus verschiedenen Wissenschaftlichen Disziplinen. | en | Buch
+[Love Your God with All Your Mind](http://www.amazon.de/Love-Your-Mind-anniversary-repack/dp/B00NICLKHE/ref=sr_1_3?s=books&ie=UTF8&qid=1429363353&sr=1-3&keywords=love+your+god+with) | Der Philosoph J.P. Mooreland schreibt über Fundamente des Christlichen Glaubens und die verschiedenen Argumente aus verschiedenen Wissenschaftlichen Disziplinen. | en | Buch
+[Resonable Faith Defenders Class](http://www.reasonablefaith.org/defenders-3-podcast) | William Lane Craig lehrt Erwachsene in grundsätzlichen Themen des Christlichen Glaubens. Es ist eine Art Sontag-Schule für Erwachsene. Unzählige detailierte Podcasts zum Thema Christliche Doctrien ( Gott, Dreieinigkeit, Schöpfung und Evolution, Jesus, Heiliger Geist, Offenbahrung, Der Mensch, Endzeit, Sünde und Vergebung, Auferstehung ): Eine umfangreiche Sammlung von Argumenten für den Glauben. | en | Podcasts
+[Reasonable Faith Podcast](http://www.reasonablefaith.org/reasonable-faith-podcast/latest) | William Lane Craig behandelt Fragen und Themen aus aktuellen Bereichen der Gesellschaft und Wissenschaft und kommentiert sie aus Christlicher Sicht. | en | Podcasts
 
 ## Theologie / Dogma
 
@@ -19,7 +21,6 @@ Titel | Erläuterung | Sprache | Versione(n)
 ----- | ----------- | ------- | -----------
 [Know the heretics](http://www.amazon.de/Know-Heretics-KNOW-Justin-Holcomb-ebook/dp/B00GS084LS) | Die Irrlehren der Kirchengeschichte. Knappe und leicht lesbare Übersicht der bekanntesten Irrlehren | en | Kindle eBook Library sp
 [Know the Creeds and Councils ](http://www.amazon.de/Know-Creeds-Councils-Justin-Holcomb-ebook/dp/B00GS084MW/) | Die Kirchenkonzile. Definition des "orthodoxen" Glaubens. Knapp und übersichtlich. KNOWN-Series halt | en | Kindle eBook Library sp
-
 
 ## Argumente für Gott
 
@@ -31,8 +32,6 @@ Link   | Erläuterung | Sprache | Versione(n)
 [Stealing From God](http://www.amazon.de/Stealing-God-Atheists-Need-Their/dp/B00RND5STA) *Why Atheists Need God to Make Their Case* | Probleme der Atheisten mit ihrem Weltbild. | en | Hörbuch Audible Library sp
 [Science Increasingly Makes the Case for God](http://www.wsj.com/articles/eric-metaxas-science-increasingly-makes-the-case-for-god-1419544568) | Wall Street Journal Artikel von Erix Metaxa zum Stand der Wissenschaft was die Wahrscheinlichkeit von Leben auf anderen Planeten und die Unwahrscheinlichkeit des Universums betrifft. Besprechung im [Reasonable Faith Podcast](http://www.reasonablefaith.org/god-explodes-the-wall-street-journal) | en | Online
 [Indizien für einen Schöpfer](http://www.amazon.de/Indizien-f%C3%BCr-einen-Sch%C3%B6pfer-Spannungsfeld/dp/3865910122/ref=sr_1_1?s=books&ie=UTF8&qid=1429362316&sr=1-1&keywords=indizien+f%C3%BCr+einen+sch%C3%B6pfer) | Journalist Lee Strobel konfrontriert führende Naturwissenschaftler mit Fragen zum Thema Entstehung des Universums und des Lebens. | de | Buch
-[Resonable Faith Defenders Class](http://www.reasonablefaith.org/defenders-3-podcast) | William Lane Craig lehrt Erwachsene in Grundsätzlichen Themen des Christlichen Glaubens. Es ist eine Art Sontag-Schule für Erwachsene. Unzählige detailierte Podcasts zum Thema Christliche Doctrien ( Gott, Dreieinigkeit, Schöpfung und Evolution, Jesus, Heiliger Geist, Offenbahrung, Der Mensch, Endzeit, Sünde und Vergebung, Auferstehung ): Allgemein Argumente für den Glauben. | en | Podcasts
-[Reasonable Faith Podcast](http://www.reasonablefaith.org/reasonable-faith-podcast/latest) | William Lane Craig behandelt Fragen und Themen aus aktuellen Gebieten in Gesellschaft und Wissenschaft und kommentiert sie aus Christlicher Sicht. | en | Podcasts
 
 ## Auferstehung
 
