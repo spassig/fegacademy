@@ -1,7 +1,7 @@
 
 # Auferstehung Jesu
 
-Die Einwände/Zweifel die sich oft Stellen sind z.B.:
+Die Einwände / Zweifel die sich oft Stellen sind z.B.:
 
 * Jesus war gar nicht tot
 * Die Jünger haben halluziniert. Sie haben es sich einfach soo sehr gewünscht das er weiterlebt.
@@ -19,12 +19,12 @@ Der christliche Glaube hängt an historischen Tatsachen. Paulus schreibt darübe
     Hoffen wir allein in diesem Leben auf Christus, so sind wir die elendesten
     unter allen Menschen. 
 
-In dem Kapitel beschreibt Paulus deutlich das die Historizität der Auferstehung der Dreh und Angelpunkt der Glaubwürdigkeit des Christlichen Glaubens ist. Wenn Jesus nicht auferstanden ist, dann ist unser Glaube wertlos wir sind nur bemitleidenswerte Träumer.
+In dem Kapitel beschreibt Paulus deutlich das die Historizität der Auferstehung der Dreh und Angelpunkt der Glaubwürdigkeit des Christlichen Glaubens ist. Wenn Jesus nicht auferstanden ist, dann ist unser Glaube wertlos und wir sind nur bemitleidenswerte Träumer.
 
 Die Auferstehung ist...
 
-* die Bestätigung der radikalen Ansprüche Jesu an seine eigene Person als Gott.
-* für die Christen - Jesu Auferstehung als Vorbild für die Auferstehung aller Christen.
+* die Bestätigung der radikalen Ansprüche Jesu an seine eigene Person als Gott. [^1]
+* für die Christen - Jesu Auferstehung als Vorbild für die Auferstehung aller Christen. [^2]
 
 Wenn die Auferstehung nicht stattfand, sind diese beiden Punkte hinfällig und wir Christen sind nur bemitleidenswerte Idioten.
 
@@ -116,14 +116,15 @@ Das Leben und die Motive von Paulus drehten sich durch diese Begebenheit um 180�
 
 Alle diese 12 Fakten müssen plausibel erklärt werden. Im Idealfall muss man **eine** Hypothese finden die alle diese Fakten erklären kann.
 
-Hier nun einige mögliche Theorien und welche der 12 Fakten **nicht** von ihnen abgedeckt werden. In Klammern jeweils die Nummer des Fakts mit weiteren Infos.
+Hier nun einige mögliche Theorien und welche der 12 Fakten **nicht** von ihnen abgedeckt werden.
 
 #### Das unbekannte Grab
 
     Jesus wurde in einem für die Jünger unbekannten Grab beigesetzt.
 
-- Keine Erklärung für Fakt 4 - 12.
-- Kritik (4): Wenn sie nicht wussten wo er begraben war, wie konnten die Jünger sagen, dass sie ihn gerade in diesem Grab nicht wieder auffinden konnten?
+Keine Erklärung für Fakt 4 - 12.
+
+Kritik bzgl. Fakt 4: Wenn sie nicht wussten wo er begraben war, wie konnten die Jünger sagen, dass sie ihn gerade in diesem Grab nicht wieder auffinden konnten?
 
 #### Das falsche Grab
 
@@ -131,17 +132,31 @@ Hier nun einige mögliche Theorien und welche der 12 Fakten **nicht** von ihnen 
     Die Frauen nahmen fälschlicherweise an, dass das leere Grab zu Jesus gehörte und
     dachten der Mann bei dem Grab wäre ein Engel.
 
-- Keine Erklärung für Fakt 5 - 12.
-- Kritik (2): Einer aus der Gruppe des Hohen Rats gibt seine Grabstätte für Jesus her - er wird wohl gewusst haben _wo_ dieses Grab ist. Genauso wussten sicherlich die anderen aus dem Hohen Rat wo dieses Grab war.
-- Gegnern der Jesus-Bewegung wäre es ein leichtes gewesen die Jünger vor die Tatsache eines nicht-leeren Grabes zu stellen. Niemand von den Mächten hat ein Interesse an einem leeren Grab (weder Römer noch Juden). Es wurde nie ein Versuch in diese Richtung von den Gegnern gemacht. Ihre These lautete von Anfang an, das die Jünger den Leichnam gestohlen hatten - indirekt eine Bestätigung für ein offensichtlich leeres Grab.
+Keine Erklärung für Fakt 5 - 12.
+
+Kritik bzgl. Fakt 2: Einer aus der Gruppe des Hohen Rats gibt seine Grabstätte für Jesus her - er wird wohl gewusst haben _wo_ dieses Grab ist. Genauso wussten sicherlich die anderen aus dem Hohen Rat wo dieses Grab war.
+
+Gegnern der Jesus-Bewegung wäre es ein leichtes gewesen die Jünger vor die Tatsache eines nicht-leeren Grabes zu stellen. Niemand von den Mächten hat ein Interesse an einem leeren Grab (weder Römer noch Juden). Es wurde nie ein Versuch in diese Richtung von den Gegnern gemacht. Ihre These lautete von Anfang an, das die Jünger den Leichnam gestohlen hatten - indirekt eine Bestätigung für ein offensichtlich leeres Grab.
 
 #### Legende
 
     Die Legende von der Auferstehung entstand erst viel Jahre (Jahrzehnte) später 
     über den geliebten Anführer. Es ist nur eine Legende - nach einigen Jahrzehnten entstand aus dem netten Mensch Jesus durch seine Anhänger der Gott Jesus.
 
-- Keine Erklärung für Fakt 1-12.
-- Kritik: Es ist nicht genug Zeit für Legendenbildung. Erste schriftliche Berichte der Auferstehung noch im ersten Jahrhundert.
+Keine Erklärung für Fakt 1-12.
+
+Kritik: Es ist nicht genug Zeit für Legendenbildung. Historiker gehen heute von einem Zeitraum von mindestens 2 Generationen aus ( also ca. 50 - 60 Jahre ), die nötig sind damit sich nach dem Ursprungzeitpunkt einer Begebenheit Legenden darüber bilden können.
+
+Mündliche Berichte ( die sich in den schriftlichen Berichten von z.B. Paulus finden lassen ) sind bereits nach weniger als 10 Jahren fester Bestandteil der entstehenden Gemeinden. Zum Beipiel Paulus in [1. Korinther 15,3ff](http://www.bibleserver.com/text/ELB/1.Korinther15,3):
+
+```
+Denn ich habe euch vor allem überliefert, was ich auch empfangen habe: dass Christus für unsere Sünden gestorben ist nach den Schriften; und dass er begraben wurde und dass er
+auferweckt worden ist am dritten Tag nach den Schriften; und dass er Kephas4 erschienen
+ist, dann den Zwölfen.
+```
+
+Er zitiert eine Art Glaubensbekenntnis das er selbst gelernt hat und den Korinthern nun schriftlich weitergibt. Die Entstehung dieses Glaubensbekenntnisses wird auf wenige Jahre
+nach der Auferstehung datiert.
 
 #### Der Zwilling
 
@@ -149,20 +164,24 @@ Hier nun einige mögliche Theorien und welche der 12 Fakten **nicht** von ihnen 
     Sein lang vermisster Zwillingsbruder (der bei der Geburt von Maria/Joseph/Jesus getrennt wurde) kommt zufällig nach dem Tod am Kreuz nach Jerusalem und wird von den Jüngern
     als der Wiederauferstandene erkannt.
 
-- keine Erklärung für Fakt 1 - 12.
-- Diese These ist ein gutes Beispiel für das _Ad Hoc_ Kriterium des 5. Punkts aus "Rückschluß auf die beste Erklärung".
-    - Wieso erkannte Jakobus nicht das er es mit einem anderen Menschen zu tun hatte? Jesus und Jakobus hatte sicherlich viel "Insider" Wissen aus ihrer gemeinsamen Familien Vergangenheit, die der _andere_ Jesus nicht gewusst haben konnte.
-    - Es wäre ein leichtes gewesen diese Verwechslung durch gezielte Fragen zu entlarven, z.B.: Jakobus: "Hey Jesus, wißt du noch wie Joseph die Spaghetti beim Essen immer so durch die Luft wirbelte ?" Jesus: "Ja klar, das lustigste war immer wenn sie auf seinem Gesicht landeten anstatt in seinem Mund ! :-)" Jakobus: "ERWISCHT !! Joseph hasste Spaghetti ! Deswegen gab es sie auch nie bei uns !"
-    - Wieso trifft der _andere_ just nach der Kreuzigung in Jerusalem auf?
-    - Wenn der _andere_ Jesus in einer anderen Gegend aufgewachsen ist, als der _richtige_ Jesus, dann hat er doch bestimmt auch einen anderen Akzent / Slang gesprochen. Sowas wäre aufgefallen.
+Keine Erklärung für Fakt 1 - 12.
+
+Diese These ist ein gutes Beispiel für das _Ad Hoc_ Kriterium des 5. Punkts aus "Rückschluß auf die beste Erklärung":
+
+- Wieso erkannte Jakobus nicht das er es mit einem anderen Menschen zu tun hatte? Jesus und Jakobus hatte sicherlich viel "Insider" Wissen aus ihrer gemeinsamen Familien Vergangenheit, die der _andere_ Jesus nicht gewusst haben konnte.
+- Es wäre ein leichtes gewesen diese Verwechslung durch gezielte Fragen zu entlarven, z.B.: Jakobus: "Hey Jesus, wißt du noch wie Joseph die Spaghetti beim Essen immer so durch die Luft wirbelte ?" Jesus: "Ja klar, das lustigste war immer wenn sie auf seinem Gesicht landeten anstatt in seinem Mund ! :-)" Jakobus: "ERWISCHT !! Joseph hasste Spaghetti ! Deswegen gab es sie auch nie bei uns !"
+- Wieso trifft der _andere_ just nach der Kreuzigung in Jerusalem auf?
+- Wenn der _andere_ Jesus in einer anderen Gegend aufgewachsen ist, als der _richtige_ Jesus, dann hat er doch bestimmt auch einen anderen Akzent / Slang gesprochen. Sowas wäre aufgefallen.
 
 #### Halluzinationen
 
     Die Jünger und auch die anderen erwähnten Begebenheiten mit Jesus sind nur Halunzinationen.
 
-- Keine Erklärung für Fakt 1 - 4, 6 - 12.
-- Jesus erschien sowohl einzelnen als auch Gruppen von Personen bei unterschiedlichen Begebenheiten. Es gibt keinerlein Medizinische Erkenntnisse das _gleiche_ Halluzinationen bei Teilnehmern einer Gruppe, zu verschiedenen Zeiten, an unterschiedlichen Örtlichkeiten auftreten können.
-- Die Begenheiten erwähnen explizit das Jesus sowohl gegessen hat als auch das er von mehreren berührt wurde. So etwas ist medizinisch nicht als Halluzination erklärbar.
+Keine Erklärung für Fakt 1 - 4, 6 - 12.
+
+Jesus erschien sowohl einzelnen als auch Gruppen von Personen bei unterschiedlichen Begebenheiten. Es gibt keinerlein Medizinische Erkenntnisse das _gleiche_ Halluzinationen bei Teilnehmern einer Gruppe, zu verschiedenen Zeiten, an unterschiedlichen Örtlichkeiten auftreten können.
+
+Die Begenheiten erwähnen explizit das Jesus sowohl gegessen hat als auch das er von mehreren berührt wurde. So etwas ist medizinisch nicht als Halluzination erklärbar.
 
 #### Existentielle Auferstehung / Spirituelle Auferstehung
 
@@ -171,29 +190,32 @@ Hier nun einige mögliche Theorien und welche der 12 Fakten **nicht** von ihnen 
 
     Oder: Jesus ist in den Jüngern wieder auferstanden, d.h. in ihren Herzen lebt er weiter.
 
-- Keine Erklärung für Fakt 4, 6 - 12.
-- Widerspricht der klaren Verkündigung der leiblichen Auferstehung der ersten Kirch.
+Keine Erklärung für Fakt 4, 6 - 12.
+
+Widerspricht der klaren Verkündigung der leiblichen Auferstehung in der entstehenden Kirche.
 
 #### Die Authoritäten versteckten den Leichnam Jesu
 
     Die Gegner der Jesus-Bewegung stahlen den Leichnam und versteckten ihn an einem geheimen Ort.
 
-- keine Erklärung für Fakt 5 - 12.
-- Eigentlich wollten die Gegner gerade verhindern das soetwas passieren würde. Deswegen stellten sie auch extra römische Wachen vor dem bekannten Grab ab, um zu verhindern das der Leichnam gestohlen werden konnte. Sie ahnten bereits das nach der Ankündigungen Jesu seine Jünger einen Auferstehungs-Hoax planen könnten und das wollten sie auf jeden Fall verhindern.
+Keine Erklärung für Fakt 5 - 12.
+
+Eigentlich wollten die Gegner gerade verhindern das so etwas passieren würde. Deswegen stellten sie auch extra römische Wachen vor dem bekannten Grab ab, um zu verhindern, dass der Leichnam gestohlen werden konnte. Sie ahnten bereits das nach der Ankündigungen Jesu seine Jünger einen Auferstehungs-Hoax planen könnten und das wollten sie auf jeden Fall verhindern.
 
 #### Nahtod / Scheintod
 
     Jesus starb nicht wirklich, er war nur sehr geschwächt als er in Grab gelegt wurde.
 
-- keine Erklärung für Fakt 1 + 6.
-- Kreuzigung als tödliche Strafe - Ein halb Toter Jesus der aus seinem Grab kriecht und sich zu seinen Jüngern ins Versteck schleppt, kann wohl kaum als jemand bezeichnet werden der "Herr über den Tod" ist !?
+Keine Erklärung für Fakt 1 + 6.
+
+Kreuzigung als tödliche Strafe - Ein halb Toter Jesus der aus seinem Grab kriecht und sich zu seinen Jüngern ins Versteck schleppt, kann wohl kaum als jemand bezeichnet werden der "Herr über den Tod" ist !?
 
 #### Jesus war ein Alien
 
     Aliens beamten Jesus vom Kreuz, hängten eine "Puppe" stattdessen hin.
     Diese "Puppe" wurde begraben. Am dritten Tag beamten sie den "geheilten" Jesus wieder zurück.
 
-Sowas von "Ad Hoc"!
+Sowas von *Ad Hoc* !
 
 #### Jesus kam körperlich von den Toten zurück
 
@@ -229,7 +251,16 @@ Diese Hypothese kann **alle** 12 Fakten sinnvoll erklären !
 - dreimal Großkanzler von England
 - Großhofmeister der Universität Cambridge
 
+----
+
 ## Quellen
 
 Siehe [Materialsammlung Auferstehung](../resources.md#auferstehung)
+
+## Fußnoten
+
+[^1]: Es gibt immer wieder Leute die versuchen Jesus nur als *Weisen Mann* hinzustellen. Er hat in ihren AUgen viele gute Dinge gesagt, an denen man sich ein Beispiel nehmen sollte - aber das war's auch schon. Jesus hat aber viele radikale Ansprüche über seine Person geäußert, in denen er sich als Gott ausgibt und Authorität über Leben & Tod beansprucht. Zu behaupten das Jesus nur ein *Weiser Mann* war muss dazu führen, dass man diese Aussagen ausblendet und dann hat man nur die Wahl zwischen "Jesus war ein Wahnsinniger der sich für Gott hielt" oder "Jesus hat absichtlich die Leute belogen und wollte sie betrügen". Beides steht aber im krassen Gegensatz zu der These das Jesus ein *Weiser Mann* gewesen sei !
+ 
+[^2]: Jesus lehrt die Auferstehung _aller_ Menschen, siehe [Joh 5, 28+29](http://www.bibleserver.com/text/SLT/Johannes5,28+29): "Verwundert euch nicht darüber! Denn es kommt die Stunde, in der alle, die in den Gräbern sind, seine Stimme hören werden, und sie werden hervorgehen: die das Gute getan haben, zur Auferstehung des Lebens; die aber das Böse getan haben, zur Auferstehung des Gerichts. ". Leben = Ewige Gemeinschaft mit Gott, Gericht / Tod = Ewiges getrennt sein von Gott. Für Christen ist deswegen die Aussicht auf Auferstehung eine Hoffnung, weil wir ab dann in unmittelbarer direkter Nähe Gottes sind und bleiben.
+
 
