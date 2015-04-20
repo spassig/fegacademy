@@ -1,7 +1,7 @@
 
 ## Grundidee
 
-Einheit, die HK-Leiter direkt im Hauskreis machen können. Handout und Materialien zum einfachen Durchführen im Hauskreis.
+Einheit(en), die HK-Leiter direkt im Hauskreis machen können. Handout und Materialien zum einfachen Durchführen im Hauskreis.
 
 ## Titel
 
@@ -28,3 +28,10 @@ Thema | Ergebniss
 **Grundlagen** | ![](images/survey_basics.jpg)
 **Theologisches** | ![](images/survey_theo.jpg)
 **Persönliches** | ![](images/survey_personal.jpg)
+
+
+---
+
+# Quelle
+
+Die Quelle für diese Dokumentation ist das Git-Hub Repository: [github.com/spassig/fegacademy](https://github.com/spassig/fegacademy)

@@ -6,7 +6,7 @@ pages:
     - [themes/existenz.md, Themen, Existenz Gottes]
     - [themes/theodizee.md, Themen, Theodizee]
     - [themes/auferstehung.md, Themen, Auferstehung]    
-    - [resources.md, Materielsammlung]    
+    - [resources.md, Materialsammlung]    
 
 markdown_extensions: [smarty, admonition, footnotes]
 
