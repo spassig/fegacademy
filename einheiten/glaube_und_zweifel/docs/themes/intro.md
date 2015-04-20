@@ -1,14 +1,15 @@
 # Einführung
 
-Der Christliche Glaube hat ein tragfähiges Fundament auf das wir uns beziehen können.
-Im Laufe der Geschichte haben sich schon viele Menschen mit dem Christlichen Glauben, seinen Fundamenten und den Fragen seiner Glaubwürdigkeit beschäftigt. Wir können von den Ideen und Überlegungen solcher Leute profitieren und unseren Glauben dadurch standfester machen.
+Der christliche Glaube hat ein tragfähiges Fundament auf das wir uns beziehen können.
+Im Laufe der Geschichte haben sich schon viele Menschen mit dem christlichen Glauben, seinen Fundamenten und den Fragen seiner Glaubwürdigkeit beschäftigt. Wir können von den Ideen und Überlegungen solcher Leute profitieren und unseren Glauben dadurch standfester machen.
 
-Der Christliche Glaube ist mehr als nur blindes Vertrauen auf einen Gott den wir uns wünschen.
+Der christliche Glaube ist mehr als nur blindes Vertrauen auf einen Gott den wir uns wünschen.
 Christlicher Glaube hat im Zentrum den *Dreieinigen* Gott der sich in der Geschichte des Universums manifestiert hat und den wir mit unserem ganzen Sein erfahren können.
 
 Darum spricht Jesus von einer ganzheitlichen Beziehung mit Gott, [Matthäus 22,37](http://www.bibleserver.com/text/ELB/Matth%C3%A4us22%2C37)
 
-    Er aber sprach zu ihm: ‟Du sollst den Herrn, deinen Gott, lieben mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Verstand.„
+    Er aber sprach zu ihm: ‟Du sollst den Herrn, deinen Gott, lieben 
+    mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Verstand.„
     
 Die Einheit **Glaube und Zweifel** soll dabei helfen wie wir in unserem Glauben sicherer werden und unserem Auftrag gerecht werden können: Den Menschen um uns herum über unseren Glauben zu erzählen und ihren Fragen begegnen zu können, Petrus schreibt dazu in Kapitel [3,15](http://www.bibleserver.com/text/HFA/1.Petrus3%2C15)
 
@@ -18,22 +19,24 @@ Die Einheit **Glaube und Zweifel** soll dabei helfen wie wir in unserem Glauben 
     
 ## Das Fundament
 
-Im Christlichen Glauben gibt es einige Punkte die zentrale Eckpfeiler und das Fundament des Glaubens darstellen. Andere Aspekte des Glaubens sind weniger zentral, gehören aber dazu.
-Wir müssen lernen uns auf die Fundamente unseres Glaubens zu stützen, wenn unser Glaube durch Zweifel oder Anfragen von außen ins wanken gerät.
+Im christlichen Glauben gibt es einige Punkte die zentrale Eckpfeiler und das Fundament des Glaubens darstellen. Andere Aspekte des Glaubens sind weniger zentral, gehören aber dazu.
+Wir müssen lernen uns auf die Fundamente unseres Glaubens zu stützen, wenn unser Glaube durch Zweifel oder Anfragen von außen ins Wanken gerät.
 
-Nur da wo wir fest im Glauben stehen und nicht ins wanken geraten, kann unser Glaube weiter wachsen und wir können Vorbild für andere Menschen sein.
+Nur da wo wir fest im Glauben stehen und nicht ins Wanken geraten, kann unser Glaube weiter wachsen und wir können Vorbild für andere Menschen sein.
 
-## Das Netz der Glaubensgrundsätze ( web of believes )
+## Das Netz der Glaubensgrundsätze (web of believes)
 
-![Spinnennetz](../images/spidernet.jpg) [Bild "Wet net" von Till Westermayer](https://www.flickr.com/photos/tillwe/8051013852)
+![Spinnennetz](../images/spidernet.jpg)
+
+([Bild "Wet net" von Till Westermayer](https://www.flickr.com/photos/tillwe/8051013852))
 
 Ein Hilfsmittel im Umgang mit Zweifeln kann die Analogie eines Spinnennetzes sein.
 
 Das persönliche Glaubensgerüst kann man hierbei als eine Art Spinnennetz verstehen.
-Grundsätze, Überzeugungen und angewandte Wahrheiten liegen auf den Knotenpunkten des Netzes.
-Wichtiges liegt auf den strahlenförmigen Fäden des Netzes, weniger wichtiges liegt auf den spiralförmigen Bereichen und in der Peripherie befinden sich die übrigen Überzeugungen.
+Grundsätze, Überzeugungen und angewandte Wahrheiten liegen auf den **Knotenpunkten** des Netzes.
+**Wichtiges** liegt auf den **strahlenförmigen** Fäden des Netzes, weniger wichtiges liegt auf den **spiralförmigen** Bereichen und in der Peripherie befinden sich die übrigen Überzeugungen.
 
-Das Bild des Spinnennetzes soll verdeutlichen, dass die Bereiche auf den Strahlenfäden wesentlich mehr zur Stabilität der Gesamtstruktur beitragen als die Abschnitte auf den Spiralfäden des Netzes.
+Das Bild des Spinnennetzes soll verdeutlichen, dass die Bereiche auf den **Strahlenfäden** wesentlich mehr zur **Stabilität** der Gesamtstruktur beitragen als die Abschnitte auf den Spiralfäden des Netzes.
 Nimmt man einen Strahlenfaden weg, kollabiert das Netz möglicherweise. Das Entfernen eines Spiralfadens oder der Peripherie löst höchsten ein Zittern des Netzes aus.
 
 In einem Netz aus Glaubensüberzeugungen liegen z.B. folgende Punkte ( kein Anspruch auf Vollständigkeit )
@@ -82,7 +85,7 @@ Wenn wir in unserem Glaubensleben immer wieder einmal mit Zweifeln konfrontriert
 Zweifel sind nicht per se schlecht oder sündhaft. Zweifel drücken nur die innere Uruhe aus, dass wir bei bestimmten Fragen unsicher sind und keine für uns befriedigende Antwort gefunden haben. Zweifel haben eine ähnliche Wirkung wie Versuchungen. Nicht der Zweifel ist die Sünde ( genauso wie die Versuchung keine Sünde ist ), sondern die Entscheidung(en) die ich daraufhin treffe sind richtig oder falsch und können zur Sünde werden.
 Zweifel zu haben ist also etwas völlig normales im Leben eines Christen.
 
-In einer Situation des zweifelns ist wichtig, dass wir uns darüber klar werden was wir als gesichertes Fundament annehmen, und woran eigentlich im Kern momentan gezweifelt wird.
+In einer Situation des Zweifelns ist wichtig, dass wir uns darüber klar werden was wir als gesichertes Fundament annehmen, und woran eigentlich im Kern momentan gezweifelt wird.
 
 Das Gewicht des aktuellen Zweifels kann sehr schnell weniger werden, wenn man sich darüber klar wird wieviel größer das Fundament ist im Vergleich zum momentanen Zweifel.
 
@@ -90,11 +93,11 @@ Die Analogie des Netzes hilft zu entscheiden wie "schwerwiegend" eine Fragestell
 
 ## Fragen des Glaubens beantworten
 
-Die Analogie des Netzes kann auch dabei helfen zu erkennen was die wichtigen Punkte im Gespräch über den Christlichen Glauben mit anderen Menschen sind :
+Die Analogie des Netzes kann auch dabei helfen zu erkennen was die wichtigen Punkte im Gespräch über den christlichen Glauben mit anderen Menschen sind :
 
-- Unterschiede im Vergleich des Christlichen Glaubens zu anderen Religionen und Philosophien
-- Es besteht kein genereller Konflikt zwischen Christlichem Glaube und der Wissenschaft [^1]
-- Es gibt gute Argumente für die wichtigen Grundlagen des Christlichen Glaubens
+- Unterschiede im Vergleich des christlichen Glaubens zu anderen Religionen und Philosophien
+- Es besteht kein genereller Konflikt zwischen christlichem Glaube und der Wissenschaft [^1]
+- Es gibt gute Argumente für die wichtigen Grundlagen des christlichen Glaubens
 - Viele intelligente Menschen haben sich schon mit dem Glauben beschäftigt und ihre Erfahrungen aufgeschrieben
 
 Die Einheit **Glaube und Zweifel** soll das nötige Handwerkszeug bereitstellen wie wir

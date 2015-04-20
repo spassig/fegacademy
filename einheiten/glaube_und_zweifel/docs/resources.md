@@ -6,7 +6,7 @@
 
 Titel | Erläuterung | Sprache | Versione(n)
 ----- | ----------- | ------- | -----------
-[A mind for god](http://www.amazon.de/Mind-God-James-Emery-White/dp/0830836632/) | Schöne Anti-Interlektualismus Zuammenfassung für Christen. Warum es wichtig ist, Gott mit unserem Verstand zu ehren. Kurze Lektüre (100 Seiten) | en | Hardcover Bibliothek sp
+[A mind for god](http://www.amazon.de/Mind-God-James-Emery-White/dp/0830836632/) | Warum es wichtig ist, Gott mit unserem Verstand zu ehren. Kurze Lektüre (100 Seiten) | en | Hardcover Bibliothek sp
 [Pardon, ich bin Christ](http://www.amazon.de/Pardon-Christ-Meine-Argumente-Glauben/dp/3765531502) | Klassiker von C.S. Lewis zu Argumenten für den Christlichen Glauben und dessen Weltbild. | de | Buch
 [Das Gewicht der Herrlichkeit](http://www.amazon.de/Das-Gewicht-Herrlichkeit-Clive-Lewis/dp/3765538612) | C.S. Lewis zu verschiedenen Themen rund um den Christlichen Glauben. | de | Buch
 [Gott auf der Anklagebank](http://www.amazon.de/Gott-Anklagebank-Clive-Staples-Lewis/dp/3765534722) | C.S. Lewis nimmt Stellung zu kritischen Fragen gegenüber dem Christlichen Glauben. | de | Buch
